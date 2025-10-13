@@ -12,17 +12,17 @@ const services = [
     path: "/services/mechanical",
   },
   {
+    title: "Body repair",
+    desc: `Repair cracked or scuffed body to a smooth, like-new finish.`,
+    image: "/carmechanic.avif",
+    path: "/services/mot",
+  },
+  {
     title: "Respray",
     desc: `Professional resprays with flawless finishes and a glossy new shine.
 ​`,
     image: "/gray.avif",
     path: "/services/service",
-  },
-  {
-    title: "Body repair",
-    desc: `Repair cracked or scuffed body to a smooth, like-new finish.`,
-    image: "/carmechanic.avif",
-    path: "/services/mot",
   },
 ];
 
